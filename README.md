@@ -10,7 +10,7 @@ A simple, physics-based terminal game inspired by Angry Birds, developed using C
 * **Save System:** Progress is saved automatically in `scores.txt`.
 * **Easter Egg:** Try finding the secret code in the menu! 😉
 
-## 🛠️ How to Run[main.cpp]()
+## 🛠️ How to Run [main.cpp]()
 
 1. Download the source code (`main.cpp`).
 2. Open it in a C++ IDE (like Dev-C++, Code::Blocks, or Visual Studio).
