@@ -456,7 +456,7 @@ int main() {
                     _getch();
                     break;
                 }
-                case 11780: {
+                case 1819: {
                     system("cls");
                     system("color 0C");
 
